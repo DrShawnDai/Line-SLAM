@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.DS_store
+build/
+examples/optimize
+examples/plucker
+examples/saveimg/
