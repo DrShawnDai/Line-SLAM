@@ -4,6 +4,7 @@
 空间直线的参数化表示方法、三角化重建、以及重投影误差优化。
 
 Author：咸菜爱嗑盐（Billibilli）
+视频链接：https://www.bilibili.com/video/BV1WnqqYyEzB/?vd_source=ab405eb800b446f6d678bf5b3c73f36a
 
 ### 2. Dependencies
 
